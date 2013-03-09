@@ -1,0 +1,6 @@
+# SFTP Plugin for sublime
+sftp_servers
+
+# Package control timestamp
+*.last-run
+
